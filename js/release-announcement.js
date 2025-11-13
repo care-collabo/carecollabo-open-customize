@@ -20,7 +20,7 @@ if (window.location.pathname === "/ep") {
           line-height: 1.75rem;
         "
       >
-        【ケアコラボからのお知らせ】<br>＼ デザインリニューアル第１弾 ／<br>11/19(水)〜 ケアコラボのデザインが新しくなります！
+        【ケアコラボからのお知らせ】<br>＼ デザインリニューアル第１弾 ／<br>11/19(水)〜 ケアコラボのデザインが一部新しくなります！
       </div>
 
       <!-- モーダル要素 -->
@@ -74,7 +74,7 @@ if (window.location.pathname === "/ep") {
           >
           <p id="designModalText" style="font-size: 1.1rem; color: #555;">
             ケアコラボをより快適にご利用いただけるよう、<br>デザインを改善いたします。<br><br>
-            【11/19(水)〜】に公開を予定しています。<br>
+            【11/19(水)〜】に公開を予定しています。<br><br>
             詳細は<a href="https://page.carecollabo.jp/blogs/newdesign_1/" target="_blank">こちら</a>のお知らせをご確認ください。
           </p>
         </div>
@@ -133,3 +133,4 @@ if (window.location.pathname === "/ep") {
     }
   });
 }
+
